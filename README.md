@@ -1,6 +1,4 @@
-Certainly! Here's the README file for your GitHub repository:
 
----
 
 # DogoDoc - Animal Care Chatbot
 
@@ -67,4 +65,3 @@ Contributions are welcome! If you have ideas for improvements or find any issues
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
----
